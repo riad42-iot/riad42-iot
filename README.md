@@ -22,7 +22,7 @@
 
 I am an **IoT and Robotics Engineering** student at the **University of Frontier Technology, Bangladesh (UFTB)** – a public institution at the forefront of emerging technology research.
 
-My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **4 IEEE research publications**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**.
+My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **1 IEEE research publications**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**.
 
 - 🔭 **Currently working on:** Self-Healing Mesh Node for military communication
 - 🌱 **Currently learning:** Advanced ROS, Edge AI, and 5G/6G IoT
@@ -49,14 +49,14 @@ My journey has been defined by resilience. After a challenging first year, I tur
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/fluency/96/000000/paper.png" width="50" />
-        <br /><strong>4x IEEE Researcher</strong>
-        <br /><small>RAAICON & International Journals</small>
+        <br /><strong>1x IEEE Researcher</strong>
+        <br /><small>RAAICON2026, Jashore</small>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/fluency/96/000000/award.png" width="50" />
-        <br /><strong>20+ A+ Grades</strong>
+        <br /><strong>20+ A+ Grades ( Level 3 term 1) </strong>
         <br /><small>Core Engineering Subjects</small>
       </td>
       <td align="center" width="33%">
@@ -115,8 +115,17 @@ My journey has been defined by resilience. After a challenging first year, I tur
   <table>
     <tr>
       <td width="50%">
+        <h3>Design and Implementation of an hybrid IoT Based Emergency SOS alert system using GSM and MQTT</h3>
+        <p>Design to helps people in rural environment, where internet connectivity is not good. Accepted in 5th IEEE RAAICON2026, Jashore.</p>
+        <p>
+          <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
         <h3>🤖 AI Telepresence Medical Robot</h3>
-        <p>Tracked rover + ECG/HR monitoring + Flutter dashboard. Sub-$250. IEEE RAAICON.</p>
+        <p>Tracked rover + ECG/HR monitoring + Flutter dashboard. Sub-$250.</p>
         <p>
           <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
@@ -162,8 +171,8 @@ My journey has been defined by resilience. After a challenging first year, I tur
 
 | Title | Status |
 | :--- | :--- |
-| **AI-Enabled Telepresence Medical Assistant Robot** for Remote Healthcare Monitoring | ✅ IEEE RAAICON (Accepted) |
-| **SHMCS: Secure Self-Healing Mesh Connectivity** for Military Personnel Health Monitoring | ✅ IEEE (Accepted) |
+| ** Design and Implementation of an hybrid IoT Based Emergency SOS alert system using GSM and MQTT | ✅ IEEE RAAICON (Accepted) | **AI-Enabled Telepresence Medical Assistant Robot** for Remote Healthcare Monitoring | ✅ IEEE (Ongoing) |
+| **SHMCS: Secure Self-Healing Mesh Connectivity** for Military Personnel Health Monitoring | Ongoing |
 | **Enhancing Medical Images Using Laplace Transform, Sobel Operator, Histogram Equalization, and ML** | 📄 Published |
 | **Paper #4** (Title in progress) | ⏳ Under Review |
 
