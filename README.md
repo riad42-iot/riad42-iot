@@ -23,7 +23,7 @@
 
 I am an **IoT and Robotics Engineering** student at the **University of Frontier Technology, Bangladesh (UFTB)** – a public institution at the forefront of emerging technology research.
 
-My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **1 IEEE research publication**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**. Recently, I won the **Gold Award at WSDG 2026** for my military mesh communication project.
+My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **1 IEEE research publication**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**. Recently, I won the **Gold Award and WSDG human well-being Award at WSDG 2026, Malaysia** for my military mesh communication project.
 
 - 🔭 **Currently working on:** Self-Healing Mesh Node for military communication
 - 🌱 **Currently learning:** Advanced ROS, Edge AI, and 5G/6G IoT
@@ -144,7 +144,7 @@ My journey has been defined by resilience. After a challenging first year, I tur
     </tr>
     <tr>
       <td width="50%">
-        <h3>📡 SHMCS: Military Mesh</h3>
+        <h3>📡 Designing Infrastructure Independent mesh communication with end-to-end security and real time health monitoring for military personal situational awareness</h3>
         <p><strong>🏆 WSDG 2026 Gold Award Winner</strong></p>
         <p>4-layer encrypted mesh + predictive health analytics. Infrastructure-independent.</p>
         <!-- LOCAL IMAGE PATH FOR WSDG PICTURE -->
