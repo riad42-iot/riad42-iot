@@ -39,41 +39,42 @@ My journey has been defined by resilience. After a challenging first year, I tur
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="50" />
+        <img src="picture/trophy.png" width="50" />
         <br /><strong>Dean's Award</strong>
         <br /><small>Ranked 1st in Batch (2nd Year)</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/medal2.png" width="50" />
+        <img src="picture/medal2.png" width="50" />
         <br /><strong>Robo Fusion 1.0</strong>
         <br /><small>National Round · Malaysia 2026 🇲🇾</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/paper.png" width="50" />
+        <img src="picture/paper.png" width="50" />
         <br /><strong>1x IEEE Researcher</strong>
         <br /><small>RAAICON2026, Jashore</small>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/award.png" width="50" />
+        <img src="picture/award.png" width="50" />
         <br /><strong>27 A+ Grades (Level 3 Term 1)</strong>
         <br /><small>Core Engineering Subjects</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/globe.png" width="50" />
+        <img src="picture/globe.png" width="50" />
         <br /><strong>International Competitor</strong>
         <br /><small>Representing Bangladesh</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/dollar.png" width="50" />
+        <img src="picture/dollar.png" width="50" />
         <br /><strong>Sub‑$250 Innovation</strong>
         <br /><small>AI Telepresence Medical Robot</small>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="3">
-        <img src="https://img.icons8.com/fluency/96/000000/star.png" width="50" />
+        <!-- LOCAL IMAGE PATH FOR STAR ICON -->
+        <img src="picture/star.png" width="50" />
         <br /><strong>🏆 WSDG 2026 Gold Award Winner</strong>
         <br /><small>Human Wellbeing Award · Malaysia 2026 🇲🇾</small>
       </td>
@@ -146,8 +147,8 @@ My journey has been defined by resilience. After a challenging first year, I tur
         <h3>📡 SHMCS: Military Mesh</h3>
         <p><strong>🏆 WSDG 2026 Gold Award Winner</strong></p>
         <p>4-layer encrypted mesh + predictive health analytics. Infrastructure-independent.</p>
-        <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED IMAGE LINK -->
-        <img src="YOUR_IMAGE_LINK_HERE" width="100%" alt="WSDG Gold Award Ceremony" style="border-radius: 8px; margin: 10px 0;" />
+        <!-- LOCAL IMAGE PATH FOR WSDG PICTURE -->
+        <img src="picture/wsdg-award.jpg" width="100%" alt="WSDG Gold Award Ceremony" style="border-radius: 8px; margin: 10px 0;" />
         <p>
           <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
           <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
