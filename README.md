@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/IoT%20%26%20Robotics-Engineer-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Dean's%20Award-Winner-FFD700?style=for-the-badge&logo=medal&logoColor=black" />
   <img src="https://img.shields.io/badge/4x-IEEE%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSDG%202026-Gold%20Award-FFD700?style=for-the-badge&logo=stars&logoColor=black" />
 </h3>
 
 <p align="center">
@@ -22,7 +23,7 @@
 
 I am an **IoT and Robotics Engineering** student at the **University of Frontier Technology, Bangladesh (UFTB)** – a public institution at the forefront of emerging technology research.
 
-My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **1 IEEE research publications**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**.
+My journey has been defined by resilience. After a challenging first year, I turned failure into fuel – winning the **Dean's Award** and ranking **1st in my batch** in my second year. Today, I hold **1 IEEE research publication**, have interned at **Rahimafrooz** building industrial IoT systems, and have been selected to represent Bangladesh at the **National Round of Robo Fusion 1.0** in **Kuala Lumpur, Malaysia**. Recently, I won the **Gold Award at WSDG 2026** for my military mesh communication project.
 
 - 🔭 **Currently working on:** Self-Healing Mesh Node for military communication
 - 🌱 **Currently learning:** Advanced ROS, Edge AI, and 5G/6G IoT
@@ -56,7 +57,7 @@ My journey has been defined by resilience. After a challenging first year, I tur
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/fluency/96/000000/award.png" width="50" />
-        <br /><strong>20+ A+ Grades ( Level 3 term 1) </strong>
+        <br /><strong>27 A+ Grades (Level 3 Term 1)</strong>
         <br /><small>Core Engineering Subjects</small>
       </td>
       <td align="center" width="33%">
@@ -68,6 +69,13 @@ My journey has been defined by resilience. After a challenging first year, I tur
         <img src="https://img.icons8.com/fluency/96/000000/dollar.png" width="50" />
         <br /><strong>Sub‑$250 Innovation</strong>
         <br /><small>AI Telepresence Medical Robot</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="https://img.icons8.com/fluency/96/000000/star.png" width="50" />
+        <br /><strong>🏆 WSDG 2026 Gold Award Winner</strong>
+        <br /><small>Human Wellbeing Award · Malaysia 2026 🇲🇾</small>
       </td>
     </tr>
   </table>
@@ -132,17 +140,20 @@ My journey has been defined by resilience. After a challenging first year, I tur
           <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
         </p>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3>📡 SHMCS: Military Mesh</h3>
+        <p><strong>🏆 WSDG 2026 Gold Award Winner</strong></p>
         <p>4-layer encrypted mesh + predictive health analytics. Infrastructure-independent.</p>
+        <!-- REPLACE THE LINK BELOW WITH YOUR UPLOADED IMAGE LINK -->
+        <img src="YOUR_IMAGE_LINK_HERE" width="100%" alt="WSDG Gold Award Ceremony" style="border-radius: 8px; margin: 10px 0;" />
         <p>
           <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
           <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         </p>
       </td>
-    </tr>
-    <tr>
       <td width="50%">
         <h3>⚖️ Smart Weight Machine</h3>
         <p>Rahimafrooz · ESP32 + HX711 + MQTT cloud integration. Industrial IoT.</p>
@@ -152,6 +163,8 @@ My journey has been defined by resilience. After a challenging first year, I tur
           <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
         </p>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3>🏠 Home Automation</h3>
         <p>ESP32 + MQTT + cloud integration. Real-time remote device control.</p>
@@ -161,6 +174,7 @@ My journey has been defined by resilience. After a challenging first year, I tur
           <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white" />
         </p>
       </td>
+      <td width="50%"></td>
     </tr>
   </table>
 </p>
@@ -171,8 +185,9 @@ My journey has been defined by resilience. After a challenging first year, I tur
 
 | Title | Status |
 | :--- | :--- |
-| ** Design and Implementation of an hybrid IoT Based Emergency SOS alert system using GSM and MQTT | ✅ IEEE RAAICON (Accepted) | **AI-Enabled Telepresence Medical Assistant Robot** for Remote Healthcare Monitoring | ✅ IEEE (Ongoing) |
-| **SHMCS: Secure Self-Healing Mesh Connectivity** for Military Personnel Health Monitoring | Ongoing |
+| **Design and Implementation of an hybrid IoT Based Emergency SOS alert system using GSM and MQTT** | ✅ IEEE RAAICON (Accepted) |
+| **AI-Enabled Telepresence Medical Assistant Robot for Remote Healthcare Monitoring** | ✅ IEEE (Ongoing) |
+| **SHMCS: Secure Self-Healing Mesh Connectivity for Military Personnel Health Monitoring** | Ongoing |
 | **Enhancing Medical Images Using Laplace Transform, Sobel Operator, Histogram Equalization, and ML** | 📄 Published |
 | **Paper #4** (Title in progress) | ⏳ Under Review |
 
