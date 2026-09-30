@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=riad42-iot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="380" />
+<img align="right" src="picture/image.png" />
 
 I am an **IoT and Robotics Engineering** student at the **University of Frontier Technology, Bangladesh (UFTB)** – a public institution at the forefront of emerging technology research.
 
