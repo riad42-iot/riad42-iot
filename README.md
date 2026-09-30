@@ -148,7 +148,7 @@ My journey has been defined by resilience. After a challenging first year, I tur
         <p><strong>🏆 WSDG 2026 Gold Award Winner</strong></p>
         <p>4-layer encrypted mesh + predictive health analytics. Infrastructure-independent.</p>
         <!-- LOCAL IMAGE PATH FOR WSDG PICTURE -->
-        <img src="picture/wsdg-award.jpg" width="100%" alt="WSDG Gold Award Ceremony" style="border-radius: 8px; margin: 10px 0;" />
+        <img src="picture/star.png" width="100%" alt="WSDG Gold Award Ceremony" style="border-radius: 8px; margin: 10px 0;" />
         <p>
           <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
           <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
